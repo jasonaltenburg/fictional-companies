@@ -25,7 +25,7 @@ Forbes rank,Company,Fictional Universe,Person 1,Person 2,Forbes 2007 Revenues,In
 24,Nakatomi Trading Corp.,Die-Hard,John McClane,,2500000000,Trading
 25,Spacely Space Sprockets,The Jetsons,George Jetson,,1300000000,Manufacturing
 0,Burns Industries,The Simpsons,Charles Montgomery Burns,Waylon Smithers,0,Energy
-0,Dunder Mifflin, Inc.,The Office,Dwight Schrute,Michael Scott,0,Paper Supply
+0,Dunder Mifflin Inc.,The Office,Dwight Schrute,Michael Scott,0,Paper Supply
 0,E Corp,Mr. Robot,Phillip Price,Tyrell Wellick,0,Technology
 0,Hooli,Silicon Valley,Gavin Belson,,0,Technology
 0,Los Pollos Hermanos,Breaking Bad,Gustavo Fring,,0,Food & Beverage
@@ -69,7 +69,6 @@ Forbes rank,Company,Fictional Universe,Person 1,Person 2,Forbes 2007 Revenues,In
 0,Relaxicab,Friends,Rachel Green,Phoebe Buffay,0,Transportation
 0,Rent a Swag,Parks and Recreation,Tom Haverford,,0,Retail
 0,Sirius Cybernetics Corp.,Hitchhiker's Guide to the Galaxy,Arthur Dent,Dirk Gently,0,Robotics
-0,Springfield Nuclear Power Plant,Simpson's,Mr Burns,,0,Energy
 0,Sterling Cooper,Mad Men,Don Draper,,0,Advertising
 0,Stratton Oakmont,The Wolf of Wall Street,Jordan Belfort,,0,Finance
 0,TelAmeriCorp,Workaholics,Andres Holmvic,Adam Demamp,0,Telemarketing
