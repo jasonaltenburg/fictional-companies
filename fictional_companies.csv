@@ -1,81 +1,105 @@
-Forbes rank,Company,Fictional Universe,Person 1,Person 2,Forbes 2007 Revenues,Industry Type
-1,CHOAM,Dune,Paul Atreides,Duncan Idaho,1700000000000,Resource Trading
-2,Acme Corp.,Looney Tunes,Wile E. Coyote,Road Runner,348700000000,Manufacturing
-3,Sirius Cybernetics Corp.,Hitchhiker’s Guide,Zaphod Beeblebrox,Trillian,327200000000,Robotics
-4,MomCorp,Futurama,Mom,Bender,291800000000,Robotics
-5,Rich Industries,Richie Rich,Richie Rich,Cadbury,163400000000,Various
-6,Soylent Corp.,Soylent Green,Harry Harrison,Det. Thorn,157100000000,Food Production
-7,Very Big Corp. of America,Monty Python,John Cleese,Eric Idle,146600000000,Various
-8,Frobozz Magic Co.,Zork,Zork Adventurer,Dungeon Master,112900000000,Magic Items
-9,Warbucks Industries,Lil’ Orphan Annie,Oliver Warbucks,Annie,61500000000,Various
-10,Tyrell Corp.,Bladerunner,Rachael,Roy Batty,59400000000,Biotechnology
-11,Wayne Enterprises,Batman,Bruce Wayne,Lucius Fox,31300000000,Various
-12,Virtucon,Austin Powers,Dr. Evil,Mini-Me,24900000000,Various
-13,Globex,The Simpsons,Hank Scorpio,Bart Simpson,23700000000,Various
-14,Umbrella Corp.,Resident Evil,Albert Wesker,Chris Redfield,22600000000,Biotechnology
-15,Wonka Industries,Charlie...Choc. Factory,Willy Wonka,Charlie Bucket,21000000000,Food Production
-16,Stark Industries,Iron Man,Tony Stark,Pepper Potts,20300000000,Technology
-17,Clampett Oil,Beverly Hillbillies,Jed Clampett,Granny,18100000000,Oil & Gas
-18,Oceanic Airlines,Lost,Jack Shepard,Kate Austen,7800000000,Airlines
-19,Yoyodyne Propulsion Sys.,Crying of Lot 49,Oedipa Maas,Pierce Inverarity,5800000000,Aerospace
-20,Cyberdyne Systems Corp.,Terminator,Sarah Connor,John Connor,5500000000,Robotics
-21,d'Anconia Copper,Atlas Shrugged,Francisco d'Anconia,Dagny Taggart,5000000000,Mining
-22,Gringotts,Harry Potter,Griphook,Harry Potter,4400000000,Banking
-23,Oscorp,Spider-Man,Norman Osborn,Harry Osborn,3100000000,Technology
-24,Nakatomi Trading Corp.,Die-Hard,John McClane,Hans Gruber,2500000000,Trading
-25,Spacely Space Sprockets,The Jetsons,George Jetson,Mr. Spacely,1300000000,Manufacturing
-0,Burns Industries,The Simpsons,Charles Montgomery Burns,Waylon Smithers,0,Energy
-0,Dunder Mifflin Inc.,The Office,Dwight Schrute,Michael Scott,0,Paper Supply
-0,E Corp,Mr. Robot,Phillip Price,Tyrell Wellick,0,Technology
-0,Hooli,Silicon Valley,Gavin Belson,Nelson 'Big Head' Bighetti,0,Technology
-0,Los Pollos Hermanos,Breaking Bad,Gustavo Fring,Mike Ehrmantraut,0,Food & Beverage
-0,Axe Capital,Billions,Bobby Axelrod,Wags,0,Finance
-0,Delos Inc,West World,James Delos,Robert Ford,0,Entertainment
-0,Iron Bank of Braavos,Game of Thrones,Tycho Nestoris,Cersei Lannister,0,Banking
-0,Rearden Steel,Atlas Shrugged,Hank Rearden,Dagny Taggart,0,Manufacturing
-0,Aperture Science,Portal,Cave Johnson,GLaDOS,0,Research
-0,Aviato,Silicon Valley,Erlich Bachman,Richard Hendricks,0,Technology
-0,Monsters Inc.,Monsters Inc.,James P. Sullivan,Mike Wazowski,0,Energy
-0,Rainholm Industries,IT Crowd,Douglas Reynholm,Jen Barber,0,Various
-0,Umbrella Corp,Resident Evil,Chris Valentine,Jill Valentine,0,Biotechnology
-0,Bailey Building and Loan Association,Its a Wonderful Life,George Bailey,Mary Bailey,0,Finance
-0,Bayside High School,Saved by the Bell,Richard Belding,Zachary Morris,0,Education
-0,Black Mesa,Half Life,Wallace Breen,Gordon Freeman,0,Research
-0,Blue Cat Hotel,Ozarks,Marty Byrde,Rachel Garrison,0,Hospitality
-0,Cyberdyne Systems Corp.,Terminator,Skynet,John Connor,0,Robotics
-0,Duke & Duke,Trading Places,Mortimer Duke,Randolph Duke,0,Finance
-0,Entertainment 720,Parks and Recreation,Tom Haverford,Jean Ralphio Saperstein,0,Entertainment
-0,Genco Pura Olive Oil Company,The Godfather,Don Vito Corleone,Michael Corleone,0,Food & Beverage
-0,Globex,The Simpsons,Hank Scorpio,Bart Simpson,0,Various
-0,Gregarious Simulation Systems,Ready Player One,Ogden Morrow,James Halliday,0,Technology
-0,Hooper's Store,Sesame Street,Oscar Grouch,Bert Anernie,0,Retail
-0,InGen,Jurassic Park,Simon Masrani,John Hammond,0,Biotechnology
-0,Fang and Bone,Zelda : Breath of the Wild,Kilton Storekeep,Link,0,Retail
-0,Macmillan Toys,Big,Josh Baskin,Billy Kopecki,0,Toys
-0,MomCorp,Futurama,Carol Miller,Bender,0,Robotics
-0,NERV,Neon Genesis Evangeleon,Gendo Ikari,Shinji Ikari,0,Defense
-0,Oceanic Airlines,Lost,Jack Shepard,James Ford,0,Airlines
-0,Omni Consumer Products,Robocop,Dick Jones,Donald Johnson,0,Manufacturing
-0,Oscorp,Spider Man,Mendel Stromm,Harry Osborn,0,Technology
-0,Paper Street Soap Company,Fight Club,Tyler Durden,The Narrator,0,Consumer Goods
-0,Parker Industries,Marvel,Peter Parker,Mary Jane Watson,0,Technology
-0,Pearson Specter Litt,Suits,Harvey Specter,Mike Ross,0,Legal
-0,Pide Piper,Silicon Valley,Richard Hendricks,Dinesh Chugtai,0,Technology
-0,PolyCon,Orange is the New Black,Joseph Caputo,Natalie Figueroa,0,Prison Management
-0,Prestige Worldwide,Step Brothers,Brennan Huff,Dale Doback,0,Entertainment
-0,Rekall,Total Recall,Douglas Quaid,Lori,0,Memory Manipulation
-0,Relaxicab,Friends,Rachel Green,Phoebe Buffay,0,Transportation
-0,Rent a Swag,Parks and Recreation,Tom Haverford,Jean-Ralphio,0,Retail
-0,Sirius Cybernetics Corp.,Hitchhiker's Guide to the Galaxy,Arthur Dent,Dirk Gently,0,Robotics
-0,Sterling Cooper,Mad Men,Don Draper,Peggy Olson,0,Advertising
-0,Stratton Oakmont,The Wolf of Wall Street,Jordan Belfort,Donnie Azoff,0,Finance
-0,TelAmeriCorp,Workaholics,Andres Holmvic,Adam Demamp,0,Telemarketing
-0,The Bluth Company,Arrested Development,Lucille Bluth,Nelly Bluth,0,Real Estate
-0,The Derek Zoolander Center for Kids Who Can't Read Good and Who Wanna Learn to Do Other Stuff Good Too,Zoolander,Derek Zoolander,Hansel,0,Education
-0,The Estelle Leonard Talent Agency,Friends,Estelle Leonard,Joey Tribbiani,0,Entertainment
-0,The Very Big Corporation of America,Monty Python,Monty Python,Graham Chapman,0,Various
-0,Tyrell Corp.,Bladerunner,Dr. Eldon Tyrell,Roy Batty,0,Biotechnology
-0,Veridian Dynamics,Better Off Ted,Veronica Palmer,Ted Crisp,0,Technology
-0,Yubaba,Spirited Away,Sen,Yubaba,0,Hospitality
-0,Weyland Yutani,Alien,Ellen Ripley,Ash,0,Space Exploration
-0,Rand Enterprises,Iron Fist/Defenders,Danny Rand,Ward Meachum,0,Various
+Forbes rank,Company,Fictional Universe,Person 1,Person 2,Forbes 2007 Revenues,Industry Type,HQ Location,Founding Year,Market Cap,Employee Count,Rival Companies
+1,CHOAM,Dune,Paul Atreides,,1700000000000,Resource Trading,Arrakis,10191,2000000000000,5000,Spacing Guild
+2,Acme Corp.,Looney Tunes,Wile E. Coyote,,348700000000,Manufacturing,Toon Town,1940,400000000000,2000,XYZ Corp.
+3,Sirius Cybernetics Corp.,Hitchhiker’s Guide,Zaphod Beeblebrox,,327200000000,Robotics,Magrathea,2100,350000000000,3000,InfiniDim Enterprises
+4,MomCorp,Futurama,Mom,,291800000000,Robotics,New New York,2900,310000000000,4000,Robot Santa's Factory
+5,Rich Industries,Richie Rich,Richie Rich,,163400000000,Various,Richville,1953,175000000000,2500,MoneyCo
+6,Soylent Corp.,Soylent Green,Harry Harrison,,157100000000,Food Production,New York,2022,160000000000,1500,FoodEx
+7,Very Big Corp. of America,Monty Python,John Cleese,,146600000000,Various,London,1969,155000000000,3500,Corp. Corp.
+8,Frobozz Magic Co.,Zork,Zork Adventurer,,112900000000,Magic Items,Quendor,770,120000000000,1800,Enchanter's Guild
+9,Warbucks Industries,Lil’ Orphan Annie,Oliver Warbucks,,61500000000,Various,New York,1924,65000000000,1200,MoneyBags Inc.
+10,Tyrell Corp.,Bladerunner,Rachael,,59400000000,Biotechnology,Los Angeles,2019,62000000000,900,Wallace Corporation
+11,Wayne Enterprises,Batman,Bruce Wayne,Lucius Fox,31300000000,Various,Gotham,1939,33000000000,2000,LexCorp
+12,Virtucon,Austin Powers,Dr. Evil,,24900000000,Various,Dr. Evil's Lair,1967,26000000000,1500,StarCorp
+13,Globex,The Simpsons,Hank Scorpio,,23700000000,Various,Cypress Creek,1996,24500000000,2200,Springfield Nuclear Power Plant
+14,Umbrella Corp.,Resident Evil,Albert Wesker,,22600000000,Biotechnology,Raccoon City,1968,23000000000,1800,Tricell Inc.
+15,Wonka Industries,Charlie...Choc. Factory,Willy Wonka,,21000000000,Food Production,Wonka Factory,1964,22000000000,500,Fickelgruber's Candy
+16,Stark Industries,Iron Man,Tony Stark,Pepper Potts,20300000000,Technology,New York,1940,21000000000,3000,Hammer Industries
+17,Clampett Oil,Beverly Hillbillies,Jed Clampett,,18100000000,Oil & Gas,Beverly Hills,1962,18500000000,800,Texas Tea Inc.
+18,Oceanic Airlines,Lost,Jack Shepard,,7800000000,Airlines,Los Angeles,2004,8000000000,2000,Ajira Airways
+19,Yoyodyne Propulsion Sys.,Crying of Lot 49,Oedipa Maas,,5800000000,Aerospace,California,1966,6000000000,1100,Inamorati Anonymous
+20,Cyberdyne Systems Corp.,Terminator,Sarah Connor,,5500000000,Robotics,California,1984,5600000000,900,Skynet
+21,d'Anconia Copper,Atlas Shrugged,Francisco d'Anconia,,5000000000,Mining,Colorado,1957,5200000000,1300,Rearden Steel
+22,Gringotts,Harry Potter,Griphook,,4400000000,Banking,Diagon Alley,1474,4600000000,500,Wizarding Bank
+23,Oscorp,Spider-Man,Norman Osborn,,3100000000,Technology,New York,1964,3200000000,1700,Stark Industries
+24,Nakatomi Trading Corp.,Die-Hard,John McClane,,2500000000,Trading,Los Angeles,1988,2600000000,800,Yamamoto Corp.
+25,Spacely Space Sprockets,The Jetsons,George Jetson,,1300000000,Manufacturing,Orbit City,2062,1350000000,400,Cogswell's Cogs
+0,Burns Industries,The Simpsons,Charles Montgomery Burns,Waylon Smithers,0,Energy,Springfield,1989,1000000000,500,Globex
+0,Dunder Mifflin Inc.,The Office,Dwight Schrute,Michael Scott,0,Paper Supply,Scranton,2005,200000000,200,Utica Branch
+0,E Corp,Mr. Robot,Phillip Price,Tyrell Wellick,0,Technology,New York,2015,5000000000,3000,Allsafe Cybersecurity
+0,Hooli,Silicon Valley,Gavin Belson,,0,Technology,Silicon Valley,2014,4000000000,2500,Pied Piper
+0,Los Pollos Hermanos,Breaking Bad,Gustavo Fring,,0,Food & Beverage,Albuquerque,2008,300000000,150,Madrigal Electromotive
+0,Axe Capital,Billions,Bobby Axelrod,,0,Finance,New York,2016,6000000000,100,Taylor Mason Capital
+0,Delos Inc,West World,James Delos,,0,Entertainment,Westworld,2016,7000000000,500,Argos Initiative
+0,Iron Bank of Braavos,Game of Thrones,Tycho Nestoris,,0,Banking,Braavos,2011,8000000000,200,Lannister Corp.
+0,Rearden Steel,Atlas Shrugged,Hank Rearden,,0,Manufacturing,Colorado,1957,900000000,800,d'Anconia Copper
+0,Aperture Science,Portal,Cave Johnson,,0,Research,Michigan,2007,1000000000,300,Black Mesa
+0,Aperture Science,Portal,Cave Johnson,,0,Research,Michigan,2007,1000000000,300,Black Mesa
+0,Aviato,Silicon Valley,Erlich Bachman,,0,Technology,Silicon Valley,2014,200000000,50,Hooli
+0,Monsters Inc.,Monsters Inc.,James P. Sullivan,Mike Wazowski,0,Energy,Monstropolis,2001,1500000000,1200,Scream Industries
+0,Rainholm Industries,IT Crowd,Douglas Reynholm,,0,Various,London,2006,500000000,400,Reynholm vs Reynholm
+0,Umbrella Corp,Resident Evil,Chris Valentine,,0,Biotechnology,Raccoon City,1996,3000000000,1800,Tricell Inc.
+0,Bailey Building and Loan Association,Its a Wonderful Life,George Bailey,,0,Finance,Bedford Falls,1946,100000000,20,Potter's Bank
+0,Bayside High School,Saved by the Bell,Richard Belding,Zachary Morris,0,Education,California,1989,50000000,100,Valley High
+0,Black Mesa,Half Life,Wallace Breen,,0,Research,New Mexico,1998,800000000,500,Aperture Science
+0,Blue Cat Hotel,Ozarks,Marty Byrde,Rachel Garrison,0,Hospitality,The Ozarks,2017,200000000,50,Snell Enterprises
+0,Cyberdyne Systems Corp.,Terminator,Skynet,,0,Robotics,California,1984,1000000000,0,Resistance Forces
+0,Duke & Duke,Trading Places,Mortimer Duke,Randolph Duke,0,Finance,Philadelphia,1983,400000000,100,Clarence Beeks
+0,Entertainment 720,Parks and Recreation,Tom Haverford,Jean Ralphio Saperstein,0,Entertainment,Pawnee,2011,100000000,20,Rent-A-Swag
+0,Genco Pura Olive Oil Company,The Godfather,Don Vito Corleone,,0,Food & Beverage,New York,1972,500000000,200,Barzini Corp.
+0,Gregarious Simulation Systems,Ready Player One,Ogden Morrow,,0,Technology,OASIS,2045,7000000000,500,Innovative Online Industries
+0,Hooper's Store,Sesame Street,Oscar Grouch,Bert Anernie,0,Retail,Sesame Street,1969,5000000,10,Mr. Hooper's Store
+0,InGen,Jurassic Park,Simon Masrani,John Hammond,0,Biotechnology,Isla Nublar,1993,2000000000,300,BioSyn
+0,Fang and Bone,Zelda : Breath of the Wild,Kilton Storekeep,,0,Retail,Hyrule,2017,10000000,1,Beedle's Shop
+0,Macmillan Toys,Big,Josh Baskin,,0,Toys,New York,1988,300000000,150,Toy World Inc.
+0,MomCorp,Futurama,Carol Miller,,0,Robotics,New New York,1999,400000000,4000,Robot Santa's Factory
+0,NERV,Neon Genesis Evangeleon,Gendo Ikari,,0,Defense,Tokyo-3,1995,5000000000,200,SEELE
+0,Oceanic Airlines,Lost,Jack Shepard,James Ford,0,Airlines,Los Angeles,2004,1000000000,2000,Ajira Airways
+0,Omni Consumer Products,Robocop,Dick Jones,Donald Johnson,0,Manufacturing,Detroit,1987,1500000000,1000,Delta City Corp.
+0,Oscorp,Spider Man,Mendel Stromm,,0,Technology,New York,1962,2000000000,1700,Stark Industries
+0,Paper Street Soap Company,Fight Club,Tyler Durden,,0,Consumer Goods,Delaware,1999,50000000,5,Marla's Soap Co.
+0,Parker Industries,Marvel,Peter Parker,,0,Technology,New York,2014,1000000000,500,Stark Industries
+0,Pearson Specter Litt,Suits,Harvey Specter,,0,Legal,New York,2011,300000000,100,Zane Specter Litt
+0,Pide Piper,Silicon Valley,Richard Hendricks,,0,Technology,Silicon Valley,2014,500000000,50,Hooli
+0,PolyCon,Orange is the New Black,Joseph Caputo,Natalie Figueroa,0,Prison Management,Litchfield,2013,200000000,200,FDC Management
+0,Prestige Worldwide,Step Brothers,Brennan Huff,Dale Doback,0,Entertainment,California,2008,100000000,25,Worldwide Prestige
+0,Rekall,Total Recall,Douglas Quaid,,0,Memory Manipulation,Mars,1990,300000000,100,Total Rekall
+0,Relaxicab,Friends,Rachel Green,Phoebe Buffay,0,Transportation,New York,1994,20000000,10,Speedy Taxi
+0,Rent a Swag,Parks and Recreation,Tom Haverford,,0,Retail,Pawnee,2012,50000000,5,Entertainment 720
+0,Starkiller Base,Star Wars,Kylo Ren,General Hux,0,Defense,Unknown,2015,5000000000,5000,Rebel Alliance
+0,Abstergo Industries,Assassin's Creed,Alan Rikkin,Warren Vidic,0,Technology,Rome,2007,2000000000,1500,Assassins
+0,Planet Express,Futurama,Hubert J. Farnsworth,Amy Wong,0,Delivery,New New York,1999,100000000,50,MomCorp
+0,Bluth's Original Frozen Banana Stand,Arrested Development,George Bluth,Michael Bluth,0,Food & Beverage,Newport Beach,2003,50000,5,The Banana Shack
+0,Vought International,The Boys,Homelander,Stan Edgar,0,Defense,New York,2019,10000000000,2000,The Boys
+0,The Daily Bugle,Spider-Man,J. Jonah Jameson,Peter Parker,0,Media,New York,1962,200000000,100,The Daily Globe
+0,Los Pollos Locos,DC Comics,Cisco Ramon,,0,Technology,Central City,2014,300000000,50,S.T.A.R. Labs
+0,Slusho!,Cloverfield,Rob Hawkins,,0,Food & Beverage,New York,2008,100000000,200,Tagruato
+0,The Krusty Krab,SpongeBob SquarePants,Eugene Krabs,Squidward Tentacles,0,Food & Beverage,Bikini Bottom,1999,1000000,3,The Chum Bucket
+0,Doublemeat Palace,Buffy the Vampire Slayer,Buffy Summers,,0,Food & Beverage,Sunnydale,2002,500000,20,Wig Lady
+0,The Leftorium,The Simpsons,Ned Flanders,,0,Retail,Springfield,1991,200000,1,The Android's Dungeon
+0,Primatech Heroes,Heroes,Noah Bennet,,0,Research,Odessa,2006,300000000,100,The Company
+0,Quahog 5 News,Family Guy,Tom Tucker,Diane Simmons,0,Media,Quahog,1999,50000000,50,Channel 6 News
+0,The Magic Box,Buffy the Vampire Slayer,Rupert Giles,Anya Jenkins,0,Retail,Sunnydale,2000,300000,2,The Magic Shop
+0,The Android's Dungeon,The Simpsons,Comic Book Guy,,0,Retail,Springfield,1991,200000,1,The Leftorium
+0,Good Burger,All That/Good Burger,Ed,Dexter Reed,0,Food & Beverage,Los Angeles,1997,500000,20,Mondo Burger
+0,The Drunken Clam,Family Guy,Horace,,0,Hospitality,Quahog,1999,200000,5,The Fuzzy Clam
+0,Chatsubo,Neuromancer,Ralfi Face,,0,Hospitality,Chiba City,1984,100000,5,The Gentleman Loser
+0,The Prancing Pony,The Lord of the Rings,Barliman Butterbur,,0,Hospitality,Bree,1954,50000,10,The Green Dragon
+0,The Winchester,Shaun of the Dead,Shaun,Richard,0,Hospitality,London,2004,100000,5,The Dolphin
+0,The Green Dragon,The Lord of the Rings,Rose Cotton,,0,Hospitality,Hobbiton,1954,50000,10,The Prancing Pony
+0,The Three Broomsticks,Harry Potter,Rosmerta,,0,Hospitality,Hogsmeade,1997,200000,5,Hog's Head Inn
+0,The Hog's Head,Harry Potter,Aberforth Dumbledore,,0,Hospitality,Hogsmeade,1997,100000,5,The Three Broomsticks
+0,The Leaky Cauldron,Harry Potter,Tom,,0,Hospitality,London,1997,300000,10,The Hog's Head
+0,The Raven,The Crow,Eric Draven,,0,Entertainment,Detroit,1994,100000,5,Top Dollar Club0,Sirius Cybernetics Corp.,Hitchhiker's Guide to the Galaxy,Arthur Dent,Dirk Gently,0,Robotics,The Galaxy,1979,1000000000,5000,Megadodo Publications
+0,Sterling Cooper,Mad Men,Don Draper,,0,Advertising,New York,1960,200000000,150,Cutler Gleason Chaough
+0,Stratton Oakmont,The Wolf of Wall Street,Jordan Belfort,,0,Finance,New York,1987,500000000,250,SEC
+0,TelAmeriCorp,Workaholics,Andres Holmvic,Adam Demamp,0,Telemarketing,Rancho Cucamonga,2011,100000000,100,Half Christmas Corp.
+0,The Bluth Company,Arrested Development,Lucille Bluth,Nelly Bluth,0,Real Estate,California,2003,300000000,50,Sitwell Enterprises
+0,The Derek Zoolander Center for Kids Who Can't Read Good and Who Wanna Learn to Do Other Stuff Good Too,Zoolander,Derek Zoolander,,0,Education,New York,2001,50000000,20,Hansel McDonald Foundation
+0,The Estelle Leonard Talent Agency,Friends,Estelle Leonard,,0,Entertainment,New York,1994,20000000,5,Handwritten Casting
+0,The Very Big Corporation of America,Monty Python,Monty Python,,0,Various,England,1972,1000000000,2000,The Ministry of Silly Walks
+0,Tyrell Corp.,Bladerunner,Dr. Eldon Tyrell,,0,Biotechnology,Los Angeles,2019,2000000000,1000,Wallace Corporation
+0,Veridian Dynamics,Better Off Ted,Veronica Palmer,,0,Technology,California,2009,1500000000,3000,Zymetrical
+0,Yubaba,Spirited Away,Sen,Yubaba,0,Hospitality,Spirit World,2001,100000000,50,Zeniba's Cottage
+0,Weyland Yutani,Alien,Ellen Ripley,,0,Space Exploration,Outer Space,1979,5000000000,2000,Seegson Corp.
+0,Rand Enterprises,Iron Fist/Defenders,Danny Rand,,0,Various,New York,2017,4000000000,1000,Meachum Inc.
