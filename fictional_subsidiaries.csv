@@ -1,0 +1,21 @@
+Primary Key,Parent Company Primary Key,Company,Fictional Universe,Person 1,Industry Type,HQ Location,Founding Year,Market Cap,Employee Count,Rival Companies
+1,1,Arrakis Spice Operations, Dune, Stilgar, Spice Production, Arrakis, 10195, 400000000000, 1200, Spice Extractors Guild
+2,1,Desert Logistics, Dune, Duncan Idaho, Transportation, Arrakis, 10196, 300000000000, 800, Desert Navigators Ltd.
+3,2,Acme Rocket Skates, Looney Tunes, Marvin the Martian, Sporting Goods, Toon Town, 1951, 100000000000, 300, FastFeet Co.
+4,2,Acme Anvils, Looney Tunes, Elmer Fudd, Manufacturing, Toon Town, 1945, 150000000000, 600, HardHat Inc.
+5,3,Deep Thought Tech, Hitchhiker’s Guide, Deep Thought, Artificial Intelligence, Magrathea, 2101, 250000000000, 500, AI Unlimited
+6,3,Milliways Catering, Hitchhiker’s Guide, Hotblack Desiato, Food & Beverage, End of the Universe, 2100, 100000000000, 200, Galactic Dinners
+7,4,Bender's Bending Inc., Futurama, Bender, Manufacturing, New New York, 3001, 50000000000, 100, FlexiCorp
+8,4,Mom's Friendly Robot Oil, Futurama, Mom, Oil Production, New New York, 2901, 200000000000, 1000, GreaseLight
+9,5,Richville Bank, Richie Rich, Regina Rich, Banking, Richville, 1955, 120000000000, 800, MoneySafe
+10,5,Rich Realty, Richie Rich, Cadbury, Real Estate, Richville, 1954, 95000000000, 400, EliteProperties
+11,6,Soylent Cafe, Soylent Green, Thorn, Restaurant, New York, 2023, 50000000000, 200, EatWell
+12,6,Green Farming Solutions, Soylent Green, Gilbert, Agriculture, New York, 2024, 70000000000, 400, PureHarvest
+13,7,Mini Corp. Media, Monty Python, Michael Palin, Entertainment, London, 1970, 60000000000, 200, EntertainCorp
+14,7,Very Small Loans, Monty Python, Graham Chapman, Financial Services, London, 1971, 80000000000, 300, QuickCash
+15,8,Magic Zork, Zork, Wizard, Mobile Apps, Quendor, 775, 55000000000, 150, SpellCast Solutions
+16,8,Quendor Exploration, Zork, Adventurer, Tourism, Quendor, 780, 85000000000, 250, ExploreMagic
+17,9,Warbucks Security, Lil’ Orphan Annie, Punjab, Security Services, New York, 1925, 30000000000, 500, SafeGuard
+18,9,Annie's Orphan Outreach, Lil’ Orphan Annie, Annie, Non-Profit, New York, 1931, 20000000000, 100, HopeForAll
+19,10,Blade Runner Academy, Bladerunner, Gaff, Education, Los Angeles, 2022, 60000000000, 300, FutureSkills
+20,10,Tyrell Genetic Innovations, Bladerunner, J.F. Sebastian, Biotechnology, Los Angeles, 2020, 55000000000, 700, BioGenTech
